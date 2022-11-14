@@ -10,3 +10,8 @@ var newCar = {
 console.log(newCar)
 console.log(newCar.wheels)
 console.log(newCar.wheels[2])
+
+newCar.newCarSmell = true
+newCar.hailDamage = false
+
+console.log(newCar)
